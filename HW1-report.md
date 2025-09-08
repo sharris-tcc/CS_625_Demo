@@ -8,15 +8,15 @@ Due: September 7, 2025
 
 ### Q1 - URL of GitHub Repo
 
-Insert your answer and explanation here
+https://github.com/sharris-tcc/CS_625_Demo.git
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+The "git pull" command updates the local branch using the remote branch or repository in GitHub.com.
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+After committing your changes you should then push your changes your remote branch or GitHub.com.  A pull request may be required if a new local branch was created
 
 ## Markdown
 
