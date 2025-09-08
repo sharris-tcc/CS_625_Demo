@@ -22,15 +22,17 @@ After committing your changes you should then push your changes your remote bran
 
 ### Q1 - Bulleted List
 
-Insert your answer and explanation here
+* Basketball
+* Football
+* Baseball
 
 ### Q2 - Markdown Paragraph
 
-Insert your answer and explanation here
+** My favorite sports are *Basketball*, **Football**, and ***Baseball***.  Here is a link to the [NFL Page](https://www.nfl.com/)
 
 ### Q3 - Animal Image
 
-Insert your answer and explanation here
+![This is a picture of my dog.](cheetah.jpg)
 
 ## Tableau
 
