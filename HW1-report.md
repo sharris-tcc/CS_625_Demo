@@ -32,13 +32,13 @@ After committing your changes you should then push your changes your remote bran
 
 ### Q3 - Animal Image
 
-![This is a picture of my dog.](cheetah.jpg)
+![This is a picture of a cheetah.](cheetah.jpg)
 
 ## Tableau
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
+![Sales East Image](SalesEast.png)
 
 ## Google Colab
 
