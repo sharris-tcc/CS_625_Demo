@@ -50,15 +50,15 @@ After committing your changes you should then push your changes your remote bran
 
 ### Q1 - First Penguin Image
 
-Insert your answer and explanation here
+![PenquinScatterPlot](PenquinScatterPlot.png)
 
 ### Q2 - Second Penguin Image
 
-Insert your answer and explanation here
+![SpeciesBarChart](SpeciesBarChart.png)
 
 ### Q3 - Outer Parenthesis
 
-Insert your answer and explanation here
+The outer parenthesis allow the coder to custom format a single line of python to include spaces or multiple lines.  By removing the parenthesis the format for the line of syntax is now invalid
 
 ## Observable and Vega-Lite
 
